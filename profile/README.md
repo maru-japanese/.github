@@ -1,6 +1,6 @@
 # Maru · Japonês, um passo de cada vez
 
-Aprender japonês não deveria começar com uma pilha de termos desconhecidos, conteúdo espalhado e a sensação de estar sempre pulando uma etapa. O **Maru **nasceu para oferecer um caminho mais simples: uma plataforma gratuita, em português, que acompanha quem está começando do absoluto zero.
+Aprender japonês não deveria começar com uma pilha de termos desconhecidos, conteúdo espalhado e a sensação de estar sempre pulando uma etapa. O **Maru** nasceu para oferecer um caminho mais simples: uma plataforma gratuita, em português, que acompanha quem está começando do absoluto zero.
 
 No Maru, cada assunto prepara o próximo. Você conhece os sons do idioma, aprende hiragana e katakana, começa a reconhecer kanji e leva tudo isso para palavras, frases e situações do dia a dia. Explicações curtas, prática imediata e revisões no momento certo ajudam o estudo a virar progresso de verdade.
 
